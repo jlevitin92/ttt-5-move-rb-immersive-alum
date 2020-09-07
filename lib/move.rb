@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(number)
-
-  input = number
-
+  number = number
 end
+
+def move(input)
