@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(number)
-  number = number.to_i
+  number = number.to_i - 1
 end
 
 def move(board, index, player)
