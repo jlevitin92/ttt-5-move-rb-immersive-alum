@@ -16,6 +16,6 @@ def move(board, index, player = "X")
   def update_array_at_with(board, index, player = "X")
     board[index] = player
   end
-
   update_array_at_with(board, index, player)
+
 end
