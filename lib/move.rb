@@ -12,6 +12,6 @@ def input_to_index(number)
   number = number
 end
 
-def move(input)
-  
+def move(board, index, player)
+
 end
